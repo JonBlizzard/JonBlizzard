@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jon Blizzard
 - 👀 I’m interested in sports, video games, and programming
 - 🌱 I’m currently learning to be a front-end engineer
-- 📫 Contact me at: jonblizzard.github.io
+- 📫 Contact me at: https://jonblizzard.github.io
 
 ---
 
